@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Robust Local Reference Calibration for Open-Set Electrical Fault Diagnosis under Cross-Site Domain Shift"
+version: 1.0.0
+license: MIT
+type: software
+abstract: >-
+  Reproducibility code for reference-assisted cross-domain open-set electrical
+  fault diagnosis using Robust Local Reference (RLR) calibration. The repository
+  implements the leakage-free primary evaluation and the reference-duration,
+  estimator, contamination, and classifier-family sensitivity studies.
+message: "If you use this software, please cite the archived Zenodo release and the associated paper."
+authors:
+  - given-names: Alexandre Giacomelli
+    family-names: Leal
+    affiliation: Independent Researcher, Brazil
+keywords:
+  - open-set recognition
+  - fault diagnosis
+  - domain shift
+  - robust local reference
+  - electrical monitoring
+  - out-of-distribution detection
+  - machine learning
+repository-code: "https://github.com/Alexandregiacomellileal/rlr-open-set-fault-diagnosis"
