@@ -1,5 +1,7 @@
 # Robust Local Reference Calibration for Open-Set Electrical Fault Diagnosis under Cross-Site Domain Shift
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21904236.svg)](https://doi.org/10.5281/zenodo.21904236)
+
 Reproducibility repository for the paper by **Alexandre Giacomelli Leal** (Independent Researcher, Brazil).
 
 The repository implements **Robust Local Reference (RLR)** calibration for reference-assisted cross-domain open-set electrical fault diagnosis. The main question is whether an unlabeled local reference can reduce the risk that benign site-dependent operating shifts are mistaken for genuinely unknown faults.
@@ -36,6 +38,12 @@ The dataset is **not redistributed** in this repository. Download the public thr
 **Dataset DOI:** https://doi.org/10.5281/zenodo.20565892
 
 See [`DATA.md`](DATA.md) for details.
+
+## Software archive and DOI
+
+The versioned reproducibility package is archived on Zenodo:
+
+**Software DOI (v1.0.0):** https://doi.org/10.5281/zenodo.21904236
 
 ## Installation
 
@@ -119,9 +127,11 @@ The strongest mechanism-specific evidence occurs at the most shifted station (S3
 
 ## Citation
 
-GitHub will render a citation suggestion from [`CITATION.cff`](CITATION.cff). A versioned software DOI will be minted by Zenodo when the GitHub `v1.0.0` release is archived.
+If you use this code, please cite the archived Zenodo software release:
 
-After the first Zenodo archive is created, add the DOI badge to this README and cite the specific software version in the final article/data-availability statement.
+**Leal, A. G. (2026). Robust Local Reference Calibration for Open-Set Electrical Fault Diagnosis under Cross-Site Domain Shift (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.21904236**
+
+GitHub also renders a citation suggestion from [`CITATION.cff`](CITATION.cff).
 
 ## License
 
