@@ -1,0 +1,9 @@
+section,condition,unknown_auroc,unknown_recall,known_acceptance,known_correct_rate,h_score,open_macro_f1
+primary,RAW + Entropy,0.556944,0.589502,0.484137,0.353747,0.365721,0.332243
+primary,RLR + Entropy,0.588976,0.476956,0.628281,0.454906,0.388913,0.427439
+primary,RLR + PUF,0.611519,0.441201,0.744358,0.488814,0.320245,0.466459
+primary,RLR + Adaptive Gate,0.588296,0.451457,0.654956,0.455242,0.353740,0.438795
+S3 geometry,RAW + Euclidean,,1.000000,0.031395,,0.060721,0.067913
+S3 geometry,RAW + Mahalanobis,,1.000000,0.031395,,0.060721,0.067913
+S3 geometry,RLR + Euclidean,,0.265385,0.802855,,0.208538,0.404994
+S3 geometry,RLR + Mahalanobis,,0.267094,0.776745,,0.223309,0.390178
