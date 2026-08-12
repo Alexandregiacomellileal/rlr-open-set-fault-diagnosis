@@ -1,0 +1,23 @@
+{
+  "creators": [
+    {
+      "name": "Leal, Alexandre Giacomelli",
+      "affiliation": "Independent Researcher, Brazil"
+    }
+  ],
+  "title": "Robust Local Reference Calibration for Open-Set Electrical Fault Diagnosis under Cross-Site Domain Shift",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "open-set recognition",
+    "fault diagnosis",
+    "domain shift",
+    "robust local reference",
+    "electrical monitoring",
+    "out-of-distribution detection",
+    "machine learning"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}
